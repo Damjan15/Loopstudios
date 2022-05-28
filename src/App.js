@@ -1,4 +1,4 @@
-import { Creations, Features, Hero } from "./components";
+import { Creations, Features, Footer, Hero } from "./components";
 
 function App() {
   return (
@@ -6,6 +6,7 @@ function App() {
       <Hero />
       <Features />
       <Creations />
+      <Footer />
     </div>
   );
 }
