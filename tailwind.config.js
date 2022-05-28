@@ -5,6 +5,9 @@ module.exports = {
       fontFamily: {
         sans: ['Josefin Sans', 'sans-serif'],
         alata: ['Alata']
+      },
+      letterSpacing: {
+        widest: '.3em'
       }
     },
     screens: {
